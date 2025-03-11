@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/Vivado_projects/Fir_filter/Fir_filter.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/adder.v,1741369462,verilog,,D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/delay.v,,adder,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/delay.v,1741334006,verilog,,D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_tap.v,,delay,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_filter.v,1741576641,verilog,,D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_filter_tb.v,,fir_filter,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_filter_tb.v,1741578828,verilog,,,,fir_filter_tb,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_tap.v,1741570065,verilog,,D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/multiplier.v,,fir_tap,,,,,,,,
+D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/multiplier.v,1741580321,verilog,,D:/Vivado_projects/Fir_filter/Fir_filter.srcs/sources_1/new/fir_filter.v,,multiplier,,,,,,,,

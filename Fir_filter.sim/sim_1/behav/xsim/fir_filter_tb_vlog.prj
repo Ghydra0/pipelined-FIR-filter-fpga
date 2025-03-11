@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Fir_filter.srcs/sources_1/new/adder.v" \
+"../../../../Fir_filter.srcs/sources_1/new/delay.v" \
+"../../../../Fir_filter.srcs/sources_1/new/fir_tap.v" \
+"../../../../Fir_filter.srcs/sources_1/new/multiplier.v" \
+"../../../../Fir_filter.srcs/sources_1/new/fir_filter.v" \
+"../../../../Fir_filter.srcs/sources_1/new/fir_filter_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
