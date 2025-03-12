@@ -1,5 +1,6 @@
 # pipelined-FIR-filter-fpga
 A pipelined implementation of an FIR filter for FPGA's
+![fir_filter](https://github.com/user-attachments/assets/4115ce3d-e4a7-4c70-9b74-0740ff599185)
 # How to use
 Clone the repository and open in Vivado. Default mode is a _moving average filter_, where coeff = 1/#taps. Parameters can be changed to create the filter type desired.
 
